@@ -1,6 +1,6 @@
 # 👋 Hola, soy MasliahDev99
 
-Soy un estudiante de Tecnólogo en Informática de 24 años con una gran pasión por la programación. Me encanta explorar nuevos desafíos y mejorar mis habilidades en diversos lenguajes de programación. Actualmente, estoy empezando a adentrarme en el emocionante mundo de la ciberseguridad, especialmente con Python. 🚀
+Soy un estudiante de Tecnólogo en Informática de 25 años con una gran pasión por la programación. Me encanta explorar nuevos desafíos y mejorar mis habilidades en diversos lenguajes de programación. Actualmente, estoy empezando a adentrarme en el emocionante mundo de la ciberseguridad, especialmente con Python. 🚀
 
 ---
 
